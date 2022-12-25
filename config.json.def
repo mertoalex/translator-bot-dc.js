@@ -1,0 +1,4 @@
+{
+  "token": "token here!",
+  "prefix": "$ " //yes, this is default prefix 💀
+}
