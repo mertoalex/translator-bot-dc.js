@@ -7,7 +7,7 @@ but you should have a config.json
 example:
 ```json
 {
-  "token": "AABBCC-AAABBBCCC"
+  "token": "AABBCC-AAABBBCCC",
   "prefix": "!"
 }
 ```
